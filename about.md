@@ -20,10 +20,12 @@ _I was born in Caracas, Venezuela in 1983._
 
 ![](/images/profile_small.png)
 ![](/images/profile_with-robots.png)
+![](/images/dream_setup.png)
+![](/images/capocaccia_screenshot.png)
 
-[:arrow_heading_up:](#about-me)
+#### [:arrow_heading_up:](#about-me)
 
-[back](/)
+#### [back](/)
 
 
 
