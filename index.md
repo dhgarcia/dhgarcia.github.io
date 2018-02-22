@@ -65,6 +65,8 @@ Follow the link to see a detailed [CV](cv).
 
 [WORKSHOP ON SOCIAL ROBOTS IN THERAPY: FOCUSING ON AUTONOMY AND ETHICAL CHALLENGES](https://sites.google.com/view/srec18/home)
 
+* * *
+
 <!-- > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
