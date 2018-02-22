@@ -94,4 +94,4 @@ González-Fierro; Lorenzo Blasi; Andrea Milani; Carlos Balaguer.
 
 
 #### [jump to top](#publications)
-#### [back](/)
+#### [back](javascript:history.back())

@@ -25,7 +25,7 @@ _I was born in Caracas, Venezuela in 1983._
 
 #### [:arrow_heading_up:](#about-me)
 
-#### [back](/)
+#### [back](javascript:history.back())
 
 
 
