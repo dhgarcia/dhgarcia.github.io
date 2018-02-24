@@ -1,6 +1,19 @@
 title: Daniel Hernández García
-description: Research Fellow in Human-Robot Interaction at University of Plymouth.
+description: Research Fellow in HRI at University of Plymouth.
 show_downloads: false
 google_analytics:
+email_address: daniel [dot] hernandez [at] plymouth [dot] ac [dot] uk
+
+
+github_username: dhgarcia
 twitter_username: d_hgarcia
+linkedin_username: dhgarcia
+researchgate_username: Daniel_Hernandez_Garcia
+facebook_username: daniel.j.hernandez.garcia
+
+
+show_excerpts: true
 theme: jekyll-theme-dinky
+
+plugins:
+  - jemoji
