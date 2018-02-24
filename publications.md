@@ -92,6 +92,12 @@ González-Fierro; Lorenzo Blasi; Andrea Milani; Carlos Balaguer.
 ’09).*</span> Munich (Germany). June 24-29, 2009. </span>
 
 
+## PhD Thesis
+
+
+**Daniel Hernández García** (2014) [Robot skills adaptation of learned models with task constraints](https://e-archivo.uc3m.es/handle/10016/20783). PhD Thesis. Departamento de Ingeniería de Sistemas y Automática. Universidad Carlos III de Madrid. Advisor(s): Carlos Balaguer Bernaldo de Quirós, Concepción Alicia Monje Micharet.
+
+
 
 #### [jump to top](#publications)
 #### [back](javascript:history.back())
