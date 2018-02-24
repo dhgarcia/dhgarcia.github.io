@@ -4,6 +4,17 @@ layout: default
 
 # [](#experience)Experience
 
+You can download a [pdf of my CV]({{ "assets/resources/cv_DHG.pdf" | absolute_url }})
+
+
+**Associate Lecturer/Demonstrator** School of Computing, Electronics and Mathematics. University of Plymouth. Plymouth, UK. September 2017 - Present
+
+- Demonstrator, Marker, and Associate Lecturer for different modules.
+    - ROCO224 Introduction to Robotics (17/SP/SB/M)
+    - PRCO304 Computing Project (17/SP/SB/M)
+    - MECH533 Robotics and Control (17/AU/SB/M)
+    - SOFT152 Software Engineering (17/AU/SD/M)
+    - AINT352 Computational Intelligence (17/AU/SB/M)
 
 **Post-Doctoral Research Fellow.** Centre for Robotics and Neural Systems, University of Plymouth. Plymouth, UK. April 2017 - Present
 
@@ -11,9 +22,12 @@ layout: default
     - Research on Human-Robot Interaction in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning in the scope of the DREAM and L2TOR projects.
     - Study the potential of Deep Learning for social robotics. Can Deep Learning be used to have access to the social world, allowing the robot to make better decisions.
 
+
 **Affiliated Researcher - iCub.** Istituto Italiano di Tecnologia. Genoa, IT. March 2017
 
-- Neuromorphic iCub
+- Affiliated Researcher in the iCub lab. Working with the event-driven iCub under Dr. Chiara Bartolozzi.
+    - Integrating spiking networks and an embodied cognitive robot into a neuromorphic system, using asynchronous event-based vision sensors and the SpiNNaker spiking neural processor.
+
 
 **Post-Doctoral Research Fellow.** Centre for Robotics and Neural Systems, University of Plymouth. Plymouth, UK. April 2016 - March 2017  
 
@@ -52,9 +66,7 @@ Prof. Dr. Manuel Armada.
 **Teacher Assistant.** Electronics and Circuits Department, Universidad Simón
 Bolívar. Caracas, VE. September 2005 - March 2006
 
-- Teaching assistant for Computer Architectures I (Arquitectura del
-Computador I) and Computer Architectures II (Arquitectura del Computador
-II) in the Electronics and Circuits Department.
+- Undergraduate Teaching Assistant for Computer Architectures I (Arquitectura del Computador I) and Computer Architectures II (Arquitectura del Computador II) in the Electronics and Circuits Department.
 
 
 # [](#education)Education

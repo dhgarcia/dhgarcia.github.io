@@ -30,5 +30,4 @@ layout: default
 
 
 [:arrow_heading_up:](#my-research)
-
-[back](javascript:history.back())
+[:leftwards_arrow_with_hook:](javascript:history.back())
