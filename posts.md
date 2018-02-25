@@ -2,8 +2,11 @@
 layout: default
 ---
 
+# [](#my-posts)Posts
+
+
 {% if site.posts.size > 0 %}
-  <h1 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1>
+<!-- <h1 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1> -->
   <ul class="post-list">
     {% for post in site.posts %}
     <li>
@@ -26,5 +29,5 @@ layout: default
 
 
 
-#### [jump to top](#experience)
+#### [jump to top](#my-posts)
 #### [back](javascript:history.back())
