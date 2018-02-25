@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#publications)My Publications
+# [](#my-publications)My Publications
 
 
 ## Publications in Journals
@@ -99,5 +99,5 @@ González-Fierro; Lorenzo Blasi; Andrea Milani; Carlos Balaguer.
 
 
 
-#### [jump to top](#publications)
+#### [jump to top](#my-publications)
 #### [back](javascript:history.back())

@@ -41,6 +41,11 @@ ES. October 2008 - December 2014
 
 - Research assistant and PhD candidate.
     - Research activities in the fields of Humanoid Robots, Human-Robot Interaction, Human-Robot Collaboration, Learning Algorithms, Learning from Demonstration, Cognitive Systems and Robot Control.
+- Demonstrator for various courses for the Department of Systems Engineering and Automation.
+    - Industrial Informatics (15694)
+    - Control Engineering I (14026)
+    - Control Engineering II (14032)
+
 
 **Visiting Researcher.** LASA, École Polytechnique Fédérale de Lausanne. Lausanne, CH. March 2010 - June 2010
 
@@ -66,7 +71,9 @@ Prof. Dr. Manuel Armada.
 **Teacher Assistant.** Electronics and Circuits Department, Universidad Simón
 Bolívar. Caracas, VE. September 2005 - March 2006
 
-- Undergraduate Teaching Assistant for Computer Architectures I (Arquitectura del Computador I) and Computer Architectures II (Arquitectura del Computador II) in the Electronics and Circuits Department.
+- Undergraduate Teaching Assistant for the .
+    - Computer Architectures I (Arquitectura del Computador I).
+    - Computer Architectures II (Arquitectura del Computador II) in the Electronics and Circuits Department.
 
 
 # [](#education)Education
