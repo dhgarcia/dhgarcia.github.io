@@ -5,9 +5,15 @@ layout: default
 # [](#my-research)My Research
 
 
+<!--
+As a researcher, I have focused on Human-Robot Interaction, Machine Learning Algorithms and Cognitive Systems, taking part in a number of both, national and European projects.
+I worked in the control of Humanoid Robots, principally with the fujitsu HOAP-3 robot platform. I also work in the development of Human-Robot Interfaces to interact with the robot and the implementation of Human-Robot Interaction and Computer Vision algorithms.
 
+I am interested in topics of Human-Robot Interaction, Human-Robot Collaboration and Machine Learning Algorithms, Learning from Demonstration, Knowledge Representation and Reasoning, Artificial Intelligence, Cognitive Systems and Data Analysis. -->
 
 ## [](#projects)Research Projects
+
+I have a career spanning multiple fields and research topics, across national boundaries. As a researcher, I have focused on Machine Learning Algorithms and Artificial Intelligence, Cognitive Systems and Human-Robot Interaction, taking part in a number of both, national and European projects; implementing various systems and designing and executing different study scenarios and experiments, both in simulation and with real physical robots.
 
 ### [](#dream)DREAM
 
@@ -21,8 +27,11 @@ layout: default
 
 ### [](#babel)BABEL
 
+#### EPSRC Project BABEL: Bio-Inspired Architecture for Brain Embodied Language​.
 
-[http://www.babel-project.org/](http://www.babel-project.org/)
+BAEL is a new EPSRC project on the computational neuroscience modelling of language and action learning in the humanoid robot iCub, and its implementation in the neuromorphic systems SpiNNAker. It integrates cognitive neuroscience, brain imaging, neuro-computational modelling, and neurorobotic experiments in advancing our understanding of the neuroscience mechanisms supporting language learning.​ ​This project will lead to the design of neuromorphic systems for cognitive and language processing suitable for a wide range of interactive system applications (e.g. autonomous service robots, smart devices, speech interfaces, intelligent transport vehicles).
+
+This project was funded by EPSRC EP/J004561/1 and lasted from August 2012 to March 2017. [http://www.babel-project.org/](http://www.babel-project.org/)
 
 ### [](#robots_at_collaborative_working_environments)Robot@CWE
 
