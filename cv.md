@@ -51,7 +51,7 @@ ES. October 2008 - December 2014
 
 - Visiting researcher at Learning Algorithms and Systems Laboratory (LASA)
 under Dr. Aude Billard.
-    - Worked on development of Learning From Demonstration techniques.
+    - Worked on development Programming by Demonstration techniques, encoding robot's end-effector trajectories with dynamical systems. Implemented 3 controllers learning the position and orientation of the end-effector in a manipulation task.
 
 **Research Engineer.** Sartenejas Technology Park. Caracas, VE. February 2008 - August 2008
 
@@ -71,9 +71,9 @@ Prof. Dr. Manuel Armada.
 **Teacher Assistant.** Electronics and Circuits Department, Universidad Simón
 Bolívar. Caracas, VE. September 2005 - March 2006
 
-- Undergraduate Teaching Assistant for the .
+- Undergraduate Teaching Assistant for the Electronics and Circuits Department.
     - Computer Architectures I (Arquitectura del Computador I).
-    - Computer Architectures II (Arquitectura del Computador II) in the Electronics and Circuits Department.
+    - Computer Architectures II (Arquitectura del Computador II).
 
 
 # [](#education)Education
