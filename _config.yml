@@ -2,7 +2,7 @@ title: Daniel Hernández García
 description: Research Fellow in HRI at University of Plymouth.
 show_downloads: false
 google_analytics:
-email_address: daniel [dot] hernandez [at] plymouth [dot] ac [dot] uk
+email_address: daniel.hernandez@plymouth.ac.uk
 
 
 github_username: dhgarcia
@@ -17,3 +17,4 @@ theme: jekyll-theme-dinky
 
 plugins:
   - jemoji
+  - jekyll-email-protect

@@ -36,9 +36,9 @@ phone: +44 799 -->
 
 # [](#research)Research
 
-My current research is carried out under the scope of two EU projects [DREAM](http://www.dream2020.eu/) and [L2TOR](http://www.l2tor.eu/). I am focused on Human-Robot Interaction in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning.
+My current research is carried out under the scope of two EU projects [DREAM](research#dream) and [L2TOR](research#l2tor). I am focused on Human-Robot Interaction in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning.
 
-Follow the link to learn more about my [research](research) and the [projects](research/#projects) I have worked on.
+Follow the link to learn more about my [research](research) and the [projects](research#projects) I have worked on.
 
 # [](#publications)Publications
 
@@ -87,4 +87,5 @@ Follow the link to see all of my [posts](posts).
 >
 > G. K. Chesterton. The Man Who Was Thursday.
 
+<p><small><a href="mailto:{{ site.email_address | encode_email }}" title="Contact me">Contact me</a></small></p>
 #### [jump to top](#welcome)
