@@ -17,11 +17,17 @@ I have a career spanning multiple fields and research topics, across national bo
 
 ### [](#dream)DREAM
 
+#### DREAM: Development of Robot-Enhanced therapy for children with AutisM spectrum disorders
+
+Development of Robot-Enhanced therapy for children with AutisM spectrum disorders (ref. FP7-ICT-600915). Integrated Project under the 7th framework programme of the European Union. 4.5 year project, start 1 February 2014. Total budget of 8.6M EUR, with 1.23M EUR for Plymouth. Tony Belpaeme is Principal Investigator at Plymouth. Other partners are Hogskolan I Skovde (Tom Ziemke, Project Coordinator), Vrije Universiteit Brussel, Universitatea Babes Bolyai, University of Portsmouth, De Montfort University and Aldebaran Robotics.
 
 [http://www.dream2020.eu/](http://www.dream2020.eu/)
 
 ### [](#l2tor)L2TOR
 
+#### L2TOR: Second Language Tutoring using Social Robots
+
+Second Language Tutoring using Social Robots (3.043M EUR total budget, 544,013 EUR to Plymouth University) project. H2020 project, coordinated by Tony Belpaeme. Other partners University of Tilburg, Bielefeld University, Utrecht University, Koc University, Aldebaran Robotics and QBMT. The L2TOR studies how robots can be used to tutor a second language to young children. L2TOR capitalises on research that shows how social robots have marked benefits over screen-based tutoring technologies.
 
 [http://www.l2tor.eu/](http://www.l2tor.eu/)
 
