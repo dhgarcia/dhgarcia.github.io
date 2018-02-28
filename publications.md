@@ -93,6 +93,12 @@ González-Fierro; Lorenzo Blasi; Andrea Milani; Carlos Balaguer.
 ’09).*</span> Munich (Germany). June 24-29, 2009. </span> [(link)](http://ieeexplore.ieee.org/document/5174679/). [(pdf)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5174679).
 
 
+## International Conference and Workshop Organization/Chair
+
+Workshop Co-Organizer. **Social Robots in Therapy: Focusing on Autonomy and Ethical Challenges**, 13th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2018). Chicago, IL, USA. March 5.
+
+
+
 ## PhD Thesis
 
 
