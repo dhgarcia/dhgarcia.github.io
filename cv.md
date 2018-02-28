@@ -51,7 +51,8 @@ ES. October 2008 - December 2014
 
 - Visiting researcher at Learning Algorithms and Systems Laboratory (LASA)
 under Dr. Aude Billard.
-    - Worked on development Programming by Demonstration techniques, encoding robot's end-effector trajectories with dynamical systems. Implemented 3 controllers learning the position and orientation of the end-effector in a manipulation task.
+    - Worked on learning within the framework of programming by
+demonstration, encoding robot's end-effector trajectories with dynamical systems. Developing interfaces for natural human-machine type of interactions. Implemented 3 controllers learning the position and orientation of the end-effector in a manipulation task.
 
 **Research Engineer.** Sartenejas Technology Park. Caracas, VE. February 2008 - August 2008
 
