@@ -7,9 +7,32 @@ layout: default
 
 <!--
 As a researcher, I have focused on Human-Robot Interaction, Machine Learning Algorithms and Cognitive Systems, taking part in a number of both, national and European projects.
-I worked in the control of Humanoid Robots, principally with the fujitsu HOAP-3 robot platform. I also work in the development of Human-Robot Interfaces to interact with the robot and the implementation of Human-Robot Interaction and Computer Vision algorithms.
+I worked in the control of Humanoid Robots, principally with the [iCub humanoid robot](icub) and the fujitsu HOAP-3 robot platform. I also work in the development of Human-Robot Interfaces to interact with the robot and the implementation of Human-Robot Interaction and Computer Vision algorithms.
 
 I am interested in topics of Human-Robot Interaction, Human-Robot Collaboration and Machine Learning Algorithms, Learning from Demonstration, Knowledge Representation and Reasoning, Artificial Intelligence, Cognitive Systems and Data Analysis. -->
+
+
+<!-- Durante la estancia se pudo aprender un sistema dinámico estable para controlar la posición y la orientación del efector final en una tarea de manipulación. Se implementaron tres controladores para probar el sistema, un controlador desacoplado de la posición y orientación, un controlador completamente acoplado, y finalmente un controlador parcialmente acoplado de la orientación respecto a la posición. Se estudiaron los efectos de reproducir trayectorias bajo estos tres controladores, así como el comportamiento bajo diferentes perturbaciones espacio‐temporales durante la trayectoria. Para validar el modelo se controlo un robot humanoide, HOAP‐3, con un brazo manipulador de 4 grados de libertad. Se enseñaron 4 tareas de manipulación al robot para demostrar la validez de los modelos y el controlador y se realizaron varias pruebas de la reproducción de la tarea con el robot humanoide HOAP‐3.  -->
+
+
+##### Human-Robot Interactions in Social Robots for education and therapy.
+
+##### Deep Learning for Social Robots.
+
+##### Cognitive and Neuro-Robotics.
+
+
+##### Dynamical Systems.
+
+
+##### Knowledge.
+
+
+##### Ethical Issues in Robotics.
+
+I am also interested in the ethical issues of using robots and robot ethics.
+I'm co-organizing a workshop at on [Social Robots in Therapy](https://sites.google.com/view/srec18/home) with a focus on autonomy and ethical challenges. The workshop aims at understanding how increasing the autonomy of robots might affect therapies as well as the design and ethical challenges of health-care robots.
+
 
 ## [](#projects)Research Projects
 
@@ -39,7 +62,7 @@ BAEL is a new EPSRC project on the computational neuroscience modelling of langu
 
 This project was funded by EPSRC EP/J004561/1 and lasted from August 2012 to March 2017. [http://www.babel-project.org/](http://www.babel-project.org/)
 
-### [](#robots_at_collaborative_working_environments)Robot@CWE
+### [](#robotcwe)Robot@CWE
 
 #### European Specific Targeted Research Project ROBOT@CWE: Advanced robotic systems in future collaborative working environments.
 
