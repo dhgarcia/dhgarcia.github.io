@@ -4,28 +4,25 @@ layout: default
 
 # [](#my-research)My Research
 
+I currently work as a Postdoctoral Research Fellow in Human-Robot Interaction at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems).
+As a researcher, I have focused on Humanoid Robots; Artificial Intelligence; Cognitive Systems; Machine Learning Algorithms and Deep Learning; and Human-Robot Interaction.
 
-<!--
-As a researcher, I have focused on Human-Robot Interaction, Machine Learning Algorithms and Cognitive Systems, taking part in a number of both, national and European projects.
-I worked in the control of Humanoid Robots, principally with the [iCub humanoid robot](icub) and the fujitsu HOAP-3 robot platform. I also work in the development of Human-Robot Interfaces to interact with the robot and the implementation of Human-Robot Interaction and Computer Vision algorithms.
+I have a career spanning multiple fields and research topics, across national boundaries, with 10 years of experience with robotics research, from the Mechatronics Group at Universidad Simon Bolivar, the RoboticsLab at Universidad Carlos III de Madrid and the Centre for Robotics and Neural Systems at University of Plymouth. I have also experience from short research stays in Spain (Centre for Automation and Robotics, CSIC), Switzerland (Learning Algorithms and Systems Laboratory, EPFL), and Italy (Italian Institute of Technology). I have taken part in a number of both, national and European projects implementing various systems and designing and executing different study scenarios and experiments, both in simulation and with real physical robots.
 
-I am interested in topics of Human-Robot Interaction, Human-Robot Collaboration and Machine Learning Algorithms, Learning from Demonstration, Knowledge Representation and Reasoning, Artificial Intelligence, Cognitive Systems and Data Analysis. -->
+I have experience working on all levels of robotics, from the integration of servos, sensors and microcontrollers, the programing of control software and user interfaces, to the development of high level cognitive architectures and learning algorithms. I have worked on several real-world platforms, like the child-size humanoid iCub, the collaborative robot BAXTER, and the social robots Pepper and NAO; I have additional working experience with the climbing hexapod REST robot, the fujitsu humanoid robot HOAP-3, and the small RoboNova and Bioloid humanoid robots (for competitions).
 
-
-<!-- Durante la estancia se pudo aprender un sistema dinámico estable para controlar la posición y la orientación del efector final en una tarea de manipulación. Se implementaron tres controladores para probar el sistema, un controlador desacoplado de la posición y orientación, un controlador completamente acoplado, y finalmente un controlador parcialmente acoplado de la orientación respecto a la posición. Se estudiaron los efectos de reproducir trayectorias bajo estos tres controladores, así como el comportamiento bajo diferentes perturbaciones espacio‐temporales durante la trayectoria. Para validar el modelo se controlo un robot humanoide, HOAP‐3, con un brazo manipulador de 4 grados de libertad. Se enseñaron 4 tareas de manipulación al robot para demostrar la validez de los modelos y el controlador y se realizaron varias pruebas de la reproducción de la tarea con el robot humanoide HOAP‐3.  -->
-
+My interest is in exploring topics related to Cognitive Systems, Human-Robot Interactions, Machine Learning and Neurorobotics. The goal of my research has been to employ machine learning algorithms to allow systems to understand information created around them and to generate knowledge and develop robots able to respond adaptively and appropriately to the combination of unexpected events and indeterminate consequences of the real world; I work to develop socially intelligent and interactive robots, capable of having natural interactions with humans. I want to applied DL for social robotics and learning of social behaviours and cues; enhancing ML through social human-robot interaction. I would be very interested in developing further such a research line in University of Plymouth. Designing a new generation of robots that can learn human behavioural skills with a view to interacting with us socially, intelligently and emotionally; and that can be deployed as companions for the elderly, therapist for special needs patients, tutors in our schools, and service robots in a near future.
 
 ##### Human-Robot Interactions in Social Robots for education and therapy.
 
-##### Deep Learning for Social Robots.
+##### Deep Learning for Social Intelligent Robots.
 
 ##### Cognitive and Neuro-Robotics.
 
-
-##### Dynamical Systems.
-
+##### Learning and Adapting Robot Skills.
 
 ##### Knowledge Representation.
+
 
 
 ##### Ethical Issues in Robotics.
