@@ -25,7 +25,7 @@ I am interested in topics of Human-Robot Interaction, Human-Robot Collaboration 
 ##### Dynamical Systems.
 
 
-##### Knowledge.
+##### Knowledge Representation.
 
 
 ##### Ethical Issues in Robotics.
