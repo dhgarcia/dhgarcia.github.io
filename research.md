@@ -31,7 +31,7 @@ I am interested in topics of Human-Robot Interaction, Human-Robot Collaboration 
 ##### Ethical Issues in Robotics.
 
 I am also interested in the ethical issues of using robots and robot ethics.
-I'm co-organizing a workshop at on [Social Robots in Therapy](https://sites.google.com/view/srec18/home) with a focus on autonomy and ethical challenges. The workshop aims at understanding how increasing the autonomy of robots might affect therapies as well as the design and ethical challenges of health-care robots.
+I'm co-organizing a workshop at the 13th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2018) on [Social Robots in Therapy](https://sites.google.com/view/srec18/home) with a focus on autonomy and ethical challenges. The workshop aims at understanding how increasing the autonomy of robots might affect therapies as well as the design and ethical challenges of health-care robots.
 
 
 ## [](#projects)Research Projects
