@@ -44,7 +44,7 @@ Follow the link to learn more about my [research](research) and the [projects](r
 
 My most recent publication:
 
-**Daniel Hernández García**; Samantha Adams; Alex Rast; Thomas Wennekers; Steve Furber; Angelo Cangelosi. **Visual Attention and Object Naming in Humanoid Robots Using a Bio-Inspired Spiking Neural Network.** _Robotics and Autonomous Systems._ Accepted.
+**Daniel Hernández García**; Samantha Adams; Alex Rast; Thomas Wennekers; Steve Furber; Angelo Cangelosi. **Visual Attention and Object Naming in Humanoid Robots Using a Bio-Inspired Spiking Neural Network.** _Robotics and Autonomous Systems._ Available online 5 March 2018.
 
 Follow the link for a full list of my [publications](publications).
 
