@@ -37,6 +37,7 @@ Walking.**</span> <span>*Advanced Robotics.*</span> February 2015.
 
 ## Conference and Workshop Contributions
 
+<span>Christopher Wallbridge; Rianne van den Berghe; <span>**Daniel Hernández García**</span>; Junko Kanero; Séverin Lemaignan; Tony Belpaeme. <span>**Encouraging the Production of Spatial Concepts in L2 for Young Children Using a Robot Peer.**</span> <span>*Submitted to 27th IEEE International Conference on Robot and Human Interactive Communication, (RO-MAN 2018).*</span> Nanjing and Tai’an (China) August 27-31, 2018. </span>
 
 <span>Ricardo de Azambuja; <span>**Daniel Hernández García**</span>;
 Martin Stoelen; Angelo Cangelosi. <span>**Neurorobotic Simulations on
