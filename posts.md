@@ -29,5 +29,7 @@ layout: default
 
 
 
-#### [jump to top](#my-posts)
-#### [back](javascript:history.back())
+<!-- #### [jump to top](#my-posts)
+#### [back](javascript:history.back()) -->
+
+[:arrow_heading_up:](#about-me) [:leftwards_arrow_with_hook:](javascript:history.back())
