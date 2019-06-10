@@ -9,7 +9,8 @@ layout: default
 
 I am **Dr. Daniel Hernández García**, I am a researcher in Robotics, Cognitive Sciences and Human-Robot Interaction.
 
-Since 2016 I'm a **Postdoctoral Research Fellow** at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems) in Plymouth University (United Kingdom). I received my M.S degree in Robotics and Automation and my Ph.D. degree in Electrical Engineering, Electronics and Automation from Universidad Carlos III de Madrid, in 2010 and 2014, respectively.
+Since 2019 I'm a **Postdoctoral Research Fellow** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the School of Computer Science, University of Manchester (United Kingdom).
+Previously I was a **Postdoctoral Fellow** at the Centre for Robotics and Neural Systems in Plymouth University (United Kingdom). I received my M.S degree in Robotics and Automation and my Ph.D. degree in Electrical Engineering, Electronics and Automation from Universidad Carlos III de Madrid, in 2010 and 2014, respectively.
 
 Follow the link to know more [about me](about).
 
