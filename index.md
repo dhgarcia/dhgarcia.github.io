@@ -9,7 +9,7 @@ layout: default
 
 I am **Dr. Daniel Hernández García**, I am a researcher in Robotics, Cognitive Sciences and Human-Robot Interaction.
 
-Since 2019 I'm a **Postdoctoral Research Fellow** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the School of Computer Science, University of Manchester (United Kingdom).
+Since 2019 I'm a **Postdoctoral Research Associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom).
 Previously I was a **Postdoctoral Fellow** at the Centre for Robotics and Neural Systems in Plymouth University (United Kingdom). I received my M.S degree in Robotics and Automation and my Ph.D. degree in Electrical Engineering, Electronics and Automation from Universidad Carlos III de Madrid, in 2010 and 2014, respectively.
 
 Follow the link to know more [about me](about).
@@ -37,7 +37,9 @@ phone: +44 799 -->
 
 # [](#research)Research
 
-My current research is carried out under the scope of two EU projects [DREAM](research#dream) and [L2TOR](research#l2tor). I am focused on Human-Robot Interaction in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning.
+My current research is carried out under the scope of the H2020 EU project [MoveCare](research#movecare) focus on machine learning for HRI and elderly care.
+
+<!-- [DREAM](research#dream) and [L2TOR](research#l2tor). I am focused on Human-Robot Interaction in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning. -->
 
 Follow the link to learn more about my [research](research) and the [projects](research#projects) I have worked on.
 

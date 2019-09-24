@@ -4,7 +4,8 @@ layout: default
 
 # [](#my-research)My Research
 
-I currently work as a Postdoctoral Research Fellow in Human-Robot Interaction at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems).
+I currently work as a **Postdoctoral Research Associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom).
+Previously I was a Postdoctoral Fellow in Human-Robot Interaction at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems).
 As a researcher, I have focused on Humanoid Robots; Artificial Intelligence; Cognitive Systems; Machine Learning Algorithms and Deep Learning; and Human-Robot Interaction.
 
 I have a career spanning multiple fields and research topics, across national boundaries, with 10 years of experience with robotics research, from the Mechatronics Group at Universidad Simon Bolivar, the RoboticsLab at Universidad Carlos III de Madrid and the Centre for Robotics and Neural Systems at University of Plymouth. I have also experience from short research stays in Spain (Centre for Automation and Robotics, CSIC), Switzerland (Learning Algorithms and Systems Laboratory, EPFL), and Italy (Italian Institute of Technology). I have taken part in a number of both, national and European projects implementing various systems and designing and executing different study scenarios and experiments, both in simulation and with real physical robots.
@@ -24,16 +25,26 @@ My interest is in exploring topics related to Cognitive Systems, Human-Robot Int
 ##### Knowledge Representation.
 
 
+##### Interactive Task Learning
+
 
 ##### Ethical Issues in Robotics.
 
 I am also interested in the ethical issues of using robots and robot ethics.
-I'm co-organizing a workshop at the 13th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2018) on [Social Robots in Therapy](https://sites.google.com/view/srec18/home) with a focus on autonomy and ethical challenges. The workshop aims at understanding how increasing the autonomy of robots might affect therapies as well as the design and ethical challenges of health-care robots.
+I co-organize a workshop on [Social Robots in Therapy](https://sites.google.com/view/srec18/home) at the 13th, 14th and 15th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2018);  with a focus on autonomy and ethical challenges. The workshop aims at understanding how increasing the autonomy of robots might affect therapies as well as the design and ethical challenges of health-care robots.
 
 
 ## [](#projects)Research Projects
 
 I have a career spanning multiple fields and research topics, across national boundaries. As a researcher, I have focused on Machine Learning Algorithms and Artificial Intelligence, Cognitive Systems and Human-Robot Interaction, taking part in a number of both, national and European projects; implementing various systems and designing and executing different study scenarios and experiments, both in simulation and with real physical robots.
+
+### [](#movecare)MoveCare
+
+#### MoveCare: Multiple-actOrs Virtual Empathic CARgiver for the Elder
+
+MoveCare integrates an existing robotic platform with a domotic system, smart objects, a virtual community and an activity center, to provide, through artificial intelligence, assistance, activities and transparent monitoring to the elder at home. MoveCare can be tailored to each elder thanks to a modular design. It is completely unobtrusive as MoveCare does not require the elder to wear any particular device. Angelo Cangelosi is Principal Investigator at Manchester.
+
+[http://www.movecare-project.eu/](http://www.movecare-project.eu/)
 
 ### [](#dream)DREAM
 

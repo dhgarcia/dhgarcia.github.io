@@ -6,7 +6,9 @@ layout: default
 
 _I am **Dr. Daniel Hernández García**, I am a researcher in Robotics, Cognitive Sciences and Human-Robot Interaction from Spain. I hold a **Ph.D. in Electrical Engineering, Electronics and Automation** from the Universidad Carlos III de Madrid (Spain). My thesis work focused on learning, representation and generation of robot skill knowledge for humanoid robots reproduction._
 
-_Currently, I live in Plymouth (United Kingdom) where I'm a **postdoctoral research fellow in Human-Robot Interaction** at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems). My current research focuses on Human-Robot Interaction and Deep Learning in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning in the scope of the DREAM and L2TOR projects._
+_Currently, I live in Manchester (United Kingdom) where I'm a **Research associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom)_
+
+<!-- **postdoctoral research fellow in Human-Robot Interaction** at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems). My current research focuses on Human-Robot Interaction and Deep Learning in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning in the scope of the DREAM and L2TOR projects._ -->
 
 _(If you're interested go to [my research](/research) page to learn more)._
 
@@ -44,6 +46,10 @@ _In April 2017 I started a new position as **research fellow in Human-Robot In
 ![]({{ "assets/images/dream_romania.png" | absolute_url }})
 ![]({{ "assets/images/l2tor_production.png" | absolute_url }})
 ![]({{ "assets/images/hackathon_group.png" | absolute_url }})
+
+<!-- TODO Manchester -->
+
+_Since 2019 I'm a **Postdoctoral Research Associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom)._
 
 _I speak Spanish and English. I did A1 level course for German (but can't remember much). I have learned and pick up in time a bit of French (but can't speak or understand much really) and Italian (know only the bad words :wink:). And I've been taught to say "arigato gozaimashita" in Japanese._  
 
