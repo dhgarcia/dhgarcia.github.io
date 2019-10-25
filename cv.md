@@ -6,6 +6,17 @@ layout: default
 
 You can download a [pdf of my CV]({{ "assets/resources/cv_DHG.pdf" | absolute_url }})
 
+**Post-Doctoral Research Associate.** Cognitive Robotics Lab, Department of Computer Science, The University of Manchester. Manchester, UK. January 2019 - Present
+
+- Post-Doctoral Research Associate.
+    - Research on Human-Robot Interaction in social robots for elderly care in the scope of the H2020 MoveCare projects.
+    - Research on neuro-robotics architectures, and deep learning approaches, interactive learning of actions and scenes representations, and their grounded linguistic descriptions.
+
+**Post-Doctoral Research Fellow.** Centre for Robotics and Neural Systems, University of Plymouth. Plymouth, UK. April 2017 - January 2019
+
+- Post-Doctoral Research Fellow in Human-Robot Interaction.
+    - Research on Human-Robot Interaction in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning in the scope of the DREAM and L2TOR projects.
+    - Study the potential of Deep Learning for social robotics. Can Deep Learning be used to have access to the social world, allowing the robot to make better decisions.
 
 **Associate Lecturer/Demonstrator** School of Computing, Electronics and Mathematics. University of Plymouth. Plymouth, UK. September 2017 - Present
 
@@ -15,12 +26,6 @@ You can download a [pdf of my CV]({{ "assets/resources/cv_DHG.pdf" | absolute_ur
     - MECH533 Robotics and Control (17/AU/SB/M)
     - SOFT152 Software Engineering (17/AU/SD/M)
     - AINT352 Computational Intelligence (17/AU/SB/M)
-
-**Post-Doctoral Research Fellow.** Centre for Robotics and Neural Systems, University of Plymouth. Plymouth, UK. April 2017 - Present
-
-- Post-Doctoral Research Fellow in Human-Robot Interaction.
-    - Research on Human-Robot Interaction in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning in the scope of the DREAM and L2TOR projects.
-    - Study the potential of Deep Learning for social robotics. Can Deep Learning be used to have access to the social world, allowing the robot to make better decisions.
 
 
 **Affiliated Researcher - iCub.** Istituto Italiano di Tecnologia. Genoa, IT. March 2017
