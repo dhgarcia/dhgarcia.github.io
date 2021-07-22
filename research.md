@@ -4,17 +4,30 @@ layout: default
 
 # [](#my-research)My Research
 
-I currently work as a **Postdoctoral Research Associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom).
-Previously I was a Postdoctoral Fellow in Human-Robot Interaction at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems).
-As a researcher, I have focused on Humanoid Robots; Artificial Intelligence; Cognitive Systems; Machine Learning Algorithms and Deep Learning; and Human-Robot Interaction.
+I currently work as a **Postdoctoral Research Associate** at the Interaction Lab, School of Mathematical and Computer Sciences, Heriot-Watt University.
 
-I have a career spanning multiple fields and research topics, across national boundaries, with 10 years of experience with robotics research, from the Mechatronics Group at Universidad Simon Bolivar, the RoboticsLab at Universidad Carlos III de Madrid and the Centre for Robotics and Neural Systems at University of Plymouth. I have also experience from short research stays in Spain (Centre for Automation and Robotics, CSIC), Switzerland (Learning Algorithms and Systems Laboratory, EPFL), and Italy (Italian Institute of Technology). I have taken part in a number of both, national and European projects implementing various systems and designing and executing different study scenarios and experiments, both in simulation and with real physical robots.
 
-I have experience working on all levels of robotics, from the integration of servos, sensors and microcontrollers, the programing of control software and user interfaces, to the development of high level cognitive architectures and learning algorithms. I have worked on several real-world platforms, like the child-size humanoid iCub, the collaborative robot BAXTER, and the social robots Pepper and NAO; I have additional working experience with the climbing hexapod REST robot, the fujitsu humanoid robot HOAP-3, and the small RoboNova and Bioloid humanoid robots (for competitions).
+Previously I have been Postdoctoral Research Associate at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom), and a Postdoctoral Fellow in Human-Robot Interaction at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems).
+<!-- As a researcher, I have focused on Humanoid Robots; Artificial Intelligence; Cognitive Systems; Machine Learning Algorithms and Deep Learning; and Human-Robot Interaction. -->
+My general research interests have been predominantly in the area of Human-Robot Interaction (HRI), with a main interest in developing Intelligent and Socially-Aware Assistive Agents. As a researcher, I have focused on Human-Robot Interaction and Social Robotics, Artificial Intelligence, Cognitive Systems, Interactive Task Learning, Machine Learning and Deep Learning.
 
-My interest is in exploring topics related to Cognitive Systems, Human-Robot Interactions, Machine Learning and Neurorobotics. The goal of my research has been to employ machine learning algorithms to allow systems to understand information created around them and to generate knowledge and develop robots able to respond adaptively and appropriately to the combination of unexpected events and indeterminate consequences of the real world; I work to develop socially intelligent and interactive robots, capable of having natural interactions with humans. I want to applied DL for social robotics and learning of social behaviours and cues; enhancing ML through social human-robot interaction. I would be very interested in developing further such a research line in University of Plymouth. Designing a new generation of robots that can learn human behavioural skills with a view to interacting with us socially, intelligently and emotionally; and that can be deployed as companions for the elderly, therapist for special needs patients, tutors in our schools, and service robots in a near future.
 
-##### Human-Robot Interactions in Social Robots for education and therapy.
+I have a career spanning multiple fields and research topics, across national boundaries. As a researcher, I have focused on Human-Robot Interaction and Social Robotics, Artificial Intelligence, Cognitive Systems, Machine Learning and Deep Learning. I have 10+ years of experience with robotics research, from the Mechatronics Group at Universidad Simon Bolivar, the RoboticsLab at Universidad Carlos III de Madrid (UC3M), the Centre for Robotics and Neural Systems at University of Plymouth, the COROLAB at the University of Manchester, to the Interaction Lab at Heriot-Watt University. I have also experience from short research placements in Spain (Centre for Automation and Robotics, CSIC), Switzerland (Learning Algorithms and Systems Laboratory (LASA), EPFL), and Italy (Italian Institute of Technology (IIT)). I have extensive experience working on all levels of robotics, from the integration of servos, sensors and microcontrollers, the programming of control software and user interfaces, interfacing with middleware like YARP and ROS, to the development of high-level cognitive architectures, computer vision, machine learning algorithms and frameworks for deep learning, like pytorch, tensorflow and keras. I have worked on several real-world platforms, like the child-size humanoid iCub, the collaborative robots BAXTER and SAWYER, and the social robots ARI, Pepper and NAO; I have additional working experience with the climbing hexapod REST robot, the Giraff robot, the small RoboNova and Bioloid humanoid robots (for competitions), and the fujitsu humanoid robot HOAP-3.
+
+
+
+At the center of my research the goal has been directed on two major ideas, developing human in the loop systems, and embodied situated robots. This is evidence on the number of national and European projects I've contributed to, with the aim of developing robotic systems and technologies with beneficial applications to industry, education or care, and improving general well-being for humans.
+
+
+To unlock the full potential of service and domestic robots, it is essential that they are able to understand information created around them and to generate knowledge, and that they are able to respond adaptively and appropriately to the combination of unexpected events and indeterminate consequences of the real world. Hence, I am pursuing projects involving socially assistive robots in combination with other ongoing work on planning and navigation for human populated environments, conversational agents, emotion recognition, object manipulation and many other research topics in the HRI Lab to provide a bridge between the applications by enabling SARs to fulfil social roles and successfully execute tasks by equipping them with the ability to move, see, hear and communicate in complex and unstructured populated spaces. Robots that can learn from human behavioural skills with a view to interacting with us socially, intelligently and emotionally.
+
+
+
+I am interested in exploring topics related to Cognitive Systems, Human-Robot Interactions, Robots for Therapy and Care, Social Robots, Interactive Task Learning, Machine Learning and Neurorobotics. My vision is to deliver robots and autonomous systems that can work with and for humans.
+
+
+
+##### Human-Robot Interactions in Social Robots for care, therapy and education.
 
 ##### Deep Learning for Social Intelligent Robots.
 
@@ -24,19 +37,30 @@ My interest is in exploring topics related to Cognitive Systems, Human-Robot Int
 
 ##### Knowledge Representation.
 
-
 ##### Interactive Task Learning
 
 
 ##### Ethical Issues in Robotics.
 
 I am also interested in the ethical issues of using robots and robot ethics.
-I co-organize a workshop on [Social Robots in Therapy](https://sites.google.com/view/srec18/home) at the 13th, 14th and 15th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2018);  with a focus on autonomy and ethical challenges. The workshop aims at understanding how increasing the autonomy of robots might affect therapies as well as the design and ethical challenges of health-care robots.
+I co-organize a series of workshops on [Social Robots in Therapy and Care](https://sites.google.com/view/ws-srec/social-robots-in-therapy-and-care) at the 13th and 14th ACM / IEEE International Conference on Human-Robot Interaction (HRI);  with a focus on autonomy and ethical challenges. The workshop aims at understanding how increasing the autonomy of robots might affect therapies as well as the design and ethical challenges of health-care robots.
 
 
-## [](#projects)Research Projects
+# [](#projects)Projects
 
-I have a career spanning multiple fields and research topics, across national boundaries. As a researcher, I have focused on Machine Learning Algorithms and Artificial Intelligence, Cognitive Systems and Human-Robot Interaction, taking part in a number of both, national and European projects; implementing various systems and designing and executing different study scenarios and experiments, both in simulation and with real physical robots.
+<!-- I have a career spanning multiple fields and research topics, across national boundaries. As a researcher, I have focused on Machine Learning Algorithms and Artificial Intelligence, Cognitive Systems and Human-Robot Interaction, taking part in a number of both, national and European projects; implementing various systems and designing and executing different study scenarios and experiments, both in simulation and with real physical robots. -->
+
+I have taken part in several, national and European projects with the aim of developing robotic systems and technologies with beneficial applications to industry, education, care, and improving general well-being. In the [ROBOT@CWE (Advanced robotic systems in future collaborative working environments.)](#robotcwe) project, my work focused on the cooperation between humanoid robots and humans, in a human-centred design for industry 4.0. My research on the EPSRC [BABEL (Bio-Inspired Architecture for Brain Embodied Language)](#babel) focused on developing novel neuromorphic systems for cognitive and language processing that will advance the design of new interactive system applications (e.g., autonomous service robots, smart devices, speech interfaces, intelligent transport vehicles). In the [L2TOR (Second Language Tutoring using Social Robots)](#l2tor) project, I worked on how social robots can be used as tutor to young children. The [DREAM](#dream) project researched the development of robot-enhanced therapy for children with autism spectrum disorders. The [MoveCare (Multiple-actOrs Virtual Empathic CARgiver for the Elder)](#movecare) project focused on social robots for independent living. Here a domotic system, smart objects and a robotic platform were integrated to provide, through artificial intelligence, assistance and transparent monitoring to the elder at home.  Currently I work, in the [SPRING (Socially Pertinent Robots in Gerontological Healthcare)](#spring) EU project. My research is focused on developing socially aware robots with the capacity for cognitive interactions, with a particular emphasis into bringing socially assistive robots into gerontological healthcare.
+
+
+
+### [](#spring)SPRING
+
+#### SPRING: Socially Pertinent Robots in Gerontological Healthcare
+
+SPRING — Socially Pertinent Robots in Gerontological Healthcare — is an EU H2020-ICT research and innovation action (RIA). Develop a novel paradigm and novel concept of socially-aware robots, and to conceive innovative methods and algorithms for computer vision, audio processing, sensor-based control, and spoken dialog systems based on modern statistical- and deep-learning to ground the required social robot skills. Oliver Lemon and Christian Dondrup are Principal Investigators at Heriot-Watt.
+
+[https://spring-h2020.eu/](https://spring-h2020.eu/)
 
 ### [](#movecare)MoveCare
 

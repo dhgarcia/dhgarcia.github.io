@@ -7,6 +7,12 @@ layout: default
 
 ## Publications in Journals
 
+<span> Yaniv Hanoch; Francesco Arvizzigno; <span>**Daniel Hernández García**</span>; Sue Denham; Tony Belpaeme; Michaela Gummerum. <span>**The Robot Made Me Do It: Human–Robot Interaction and Risk-Taking Behavior.**</span> <span>*Cyberpsychology, Behavior, and Social Networking*</span>. November 2020. </span>
+
+<span> Erik Billing; Tony Belpaeme; Haibin Cai; Hoang-Long Cao; Anamaria Ciocan; Cristina Costescu; Daniel David; Robert Homewood; <span>**Daniel Hernández García**</span>; Pablo Gómez Esteban; Honghai Liu; Vipul Nair; Silviu Matu; Alexandre Mazel; Mihaela Selescu; Emmanuel Senft; Serge Thill; Bram Vanderborght; David Vernon; Tom Ziemke. <span>**The DREAM Dataset: Supporting a data-driven study of autism spectrum disorder and robot enhanced therapy.**</span> <span>*PLOS ONE 15(8).*</span> August 2020. </span>
+
+<span> Hoang-Long Cao; Pablo Gomez Esteban; Madeleine Bartlett; Paul Edward Baxter; Tony Belpaeme; Erik Alexander Billing; Haibin CAI; Mark Coeckelbergh; Cristina Costescu; Daniel David; Albert De Beir; <span>**Daniel Hernández García**</span>; James Kennedy; Honghai Liu; Silviu Matu; Alexandre Mazel; Amit Kumar Pandey; Kathleen Richardson; Emmanuel Senft; Serge Thill; Greet Van de Perre; Bram Vanderborght; David Vernon; Kutoma Wakanuma; Hui Yu; Xiaolong Zhou; Tom Ziemke <span>**Robot-Enhanced Therapy: Development and Validation of Supervised Autonomous Robotic System for Autism Spectrum Disorders Therapy.**</span> <span>*IEEE Robotics \& Automation Magazine.*</span> vol. 26, no. 2, pp. 49-58, June 2019. </span>
+
 <span><span>**Daniel Hernández García**</span>; Samantha Adams; Alex Rast; Thomas Wennekers; Steve Furber; Angelo Cangelosi.
 <span>**Visual Attention and Object Naming in Humanoid Robots Using a Bio-Inspired Spiking Neural Network.**</span> <span>*Robotics and Autonomous Systems.*</span> Available online 5 March 2018.
  </span> [(link)](https://www.sciencedirect.com/science/article/pii/S0921889017302439).
@@ -36,6 +42,18 @@ Walking.**</span> <span>*Advanced Robotics.*</span> February 2015.
 
 
 ## Conference and Workshop Contributions
+
+<span>Nancie Gunson; Weronika Sieinska; Yanchao Yu; <span>**Daniel Hernández García**</span>; Jose L. Part; Christian Dondrup; Oliver Lemon. <span>**Coronabot: A Conversational AI System for Tackling Misinformation**</span> <span>*2021 ACM International Conference on Information Technology for Social Good (GoodIT 2021).*</span> Virtual. September 09-11, 2021.</span>
+
+<span>Jose L. Part; <span>**Daniel Hernández García**</span>; Yanchao Yu; Nancie Gunson; Christian Dondrup; Oliver Lemon. <span>**Towards Visual Dialogue for HRI.**</span> <span>*In Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction (HRI '21 Companion).*</span> Virtual. March 09-11, 2021.</span>
+
+<span><span>**Daniel Hernández García**</span>; Yanchao Yu; Weronika Siei\'nska; Jose L. Part; Nancie Gunson; Oliver Lemon; Christian Dondrup. <span>**Explainable Representations of the Social State: A Model for Social Human-Robot Interactions.**</span> <span>*AI-HRI AAAI Fall Symposium Series Virtual.*</span> November 13-14, 2020.</span>
+
+<span>Marta Romeo; <span>**Daniel Hernández García**</span>; Ray Jones; Angelo Cangelosi. <span>**Deploying a Deep Learning Agent for HRI with Potential “end-users” at Multiple Sheltered Housing Sites.**</span> <span>*HAI 2019: 7th International Conference on Human-Agent Interaction.*</span> Kyoto, Japan. October 06-10, 2019.</span>
+
+<span>Paul Vogt; Rianne van den Berghe; Mirjam de Haas; Laura Hoffmann; Junko Kanero; Ezgi Mamus; Jean-Marc Montanier; Cansu Oranç; Ora Oudgenoeg-Paz; <span>**Daniel Hernández García**</span>; Fotios Papadopoulos; Thorsten Schodde; Josje Verhagen; Christopher D. Wallbridge; Bram Willemsen; Jan de Wit; Tony Belpaeme; Tilbe Göksun; Stefan Kopp; Emiel Krahmer; Aylin C. Küntay; Paul Leseman; Amit Kumar Pandey. <span>**Second Language Tutoring using Social Robots. A Large-Scale Study.**</span> <span>*IEEE/ACM International Conference on Human-Robot Interaction 2019.*</span> Daegu, Korea. March 11.</span>
+
+<span>Madeleine Bartlett; <span>**Daniel Hernández García**</span>; Serge Thill; Tony Belpaeme. <span>**Recognising Human Internal States: A Conceptor-Based Approach.**</span> <span>*Workshop at IEEE/ACM International Conference on Human-Robot Interaction 2019.</span> Daegu, Korea. March 11.</span>
 
 <span>Christopher Wallbridge; Rianne van den Berghe; <span>**Daniel Hernández García**</span>; Junko Kanero; Séverin Lemaignan; Tony Belpaeme. <span>**Encouraging the Production of Spatial Concepts in a Second Language with a Robot Peer.**</span> <span>*Submitted to 27th IEEE International Conference on Robot and Human Interactive Communication, (RO-MAN 2018).*</span> Nanjing and Tai’an (China) August 27-31, 2018. </span>
 
@@ -95,6 +113,11 @@ González-Fierro; Lorenzo Blasi; Andrea Milani; Carlos Balaguer.
 
 
 ## International Conference and Workshop Organization/Chair
+
+Co-Organizer. **Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium**, (AI-HRI 2021), AAAI 2021 FALL SYMPOSIUM SERIES. Online, November 4-6, 2021.
+
+Workshop Co-Organizer. **Social Robots in Therapy and Care**, 14th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2019). Daegu, Korea. March 11.
+[(link)](https://dl.acm.org/doi/10.5555/3378680.3378845)
 
 Workshop Co-Organizer. **Social Robots in Therapy: Focusing on Autonomy and Ethical Challenges**, 13th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2018). Chicago, IL, USA. March 5. [(pdf)](http://delivery.acm.org/10.1145/3180000/3173562/p391-g.-esteban.pdf?ip=141.163.105.134&id=3173562&acc=OPEN&key=BF07A2EE685417C5%2EF0CFB63AC02EEA16%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1522690213_7b75f2b75f61d0f6e1b0cca99f1b2851).
 

@@ -4,11 +4,11 @@ layout: default
 
 # [](#about-me)About me
 
-_I am **Dr. Daniel Hernández García**, I am a researcher in Robotics, Cognitive Sciences and Human-Robot Interaction from Spain. I hold a **Ph.D. in Electrical Engineering, Electronics and Automation** from the Universidad Carlos III de Madrid (Spain). My thesis work focused on learning, representation and generation of robot skill knowledge for humanoid robots reproduction._
+_I am **Dr. Daniel Hernández García**, I am a researcher in Robotics, Cognitive Sciences, Human-Robot Interaction and Socially-Aware Assistive Agents from Spain. I hold a **Ph.D. in Electrical Engineering, Electronics and Automation** from the Universidad Carlos III de Madrid (Spain). My thesis work focused on learning, representation and generation of robot skill knowledge for humanoid robots reproduction._
 
-_Currently, I live in Manchester (United Kingdom) where I'm a **Research associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom)_
+_Currently, I live in Edinburgh, Scotland (United Kingdom) where I'm a **Research associate** at the Interaction Lab, School of Mathematical and Computer Sciences, Heriot-Watt University._
 
-<!-- **postdoctoral research fellow in Human-Robot Interaction** at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems). My current research focuses on Human-Robot Interaction and Deep Learning in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning in the scope of the DREAM and L2TOR projects._ -->
+<!-- at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom) **postdoctoral research fellow in Human-Robot Interaction** at the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems). My current research focuses on Human-Robot Interaction and Deep Learning in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning in the scope of the DREAM and L2TOR projects._ -->
 
 _(If you're interested go to [my research](/research) page to learn more)._
 
@@ -39,7 +39,7 @@ _I continued working in the RoboticsLab at UC3M for the completion of my Ph.D. M
 _In April 2016 I moved to the lovely Plymouth in Devon, United Kingdom to start a position as a **postdoctoral research fellow in Cognitive and Neuro-robotics** in the group of Angelo Cangelosi. Here I worked under the scope of UK EPRSC project [BABEL: Bio-Inspired Architecture for Brain Embodied Language​](/research#babel). BABEL aims at advancing the understanding of neural and behavioural mechanisms in word learning, the validation of these principles in neuroanatomically grounded models, and real-time implementations of brain language models within the SpiNNaker neuromorphic architecture that will support comparisons with neuroimaging experiments. My work focused on developmental cognitive robotics and neurobotics, and the us of neuromorphic hardware to implement a real-time neural control architecture. For BABEL I integrated a neuroanatomically grounded spiking neural network for visual attention with the iCub humanoid robot and SpiNNaker neuromorphic hardware. Latter the network was extended with a word learning capability to demonstrate attention-led object naming with the iCub robot. At the end of the project in March of 2017 I visited the [IIT in the iCub rearch line](https://www.iit.it/research/lines/icub). For 3 weeks I was an **Affiliated Researcher** at IIT under the supervision of Chiara Bartolozzi. I worked in the integration of spiking network models and an embodied cognitive robot into a neuromorphic system, using asynchronous event-based vision sensors and the SpiNNaker spiking neural processor._
 
 
-_In April 2017 I started a new position as **research fellow in Human-Robot Interaction**, still within the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems) at Plymouth University, but now under the supervision of [Tony Belpaeme](https://tonybelpaeme.me/) working with his group (this meant a changed of projects, group, office and floor, but I still come down to visit my former mates every time I miss them :smirk:). Currently my research is carried out under the scope of two EU projects [DREAM](research#dream) and [L2TOR](research#l2tor). I am focused on Human-Robot Interaction and Deep Learning in social robots for education and therapy._
+_In April 2017 I started a new position as **research fellow in Human-Robot Interaction**, still within the [Centre for Robotics and Neural Systems](https://www.plymouth.ac.uk/research/robotics-neural-systems) at Plymouth University, but now under the supervision of [Tony Belpaeme](https://tonybelpaeme.me/) working with his group (this meant a changed of projects, group, office and floor, but I still come down to visit my former mates every time I miss them :smirk:). My research was carried out under the scope of two EU projects [DREAM](research#dream) and [L2TOR](research#l2tor), focused on Human-Robot Interaction and Deep Learning in social robots for education and therapy._
 
 <!-- _; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning._ -->
 
@@ -49,9 +49,11 @@ _In April 2017 I started a new position as **research fellow in Human-Robot In
 
 <!-- TODO Manchester -->
 
-_Since 2019 I'm a **Postdoctoral Research Associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom)._
+_Since 2019 I'm a **Postdoctoral Research Associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom). Here I worked in the [MoveCare](research#movecare) project to provide, through artificial intelligence, assistance, activities and transparent monitoring to the elder at home._
 
-_I speak Spanish and English. I did A1 level course for German (but can't remember much). I have learned and pick up in time a bit of French (but can't speak or understand much really) and Italian (know only the bad words :wink:). And I've been taught to say "arigato gozaimashita" in Japanese._  
+_From April 2020 I work as a **Postdoctoral Research Associate** at the Interaction Lab, School of Mathematical and Computer Sciences, Heriot-Watt University in research on Human-Robot Interaction in social robots for elderly care in the scope of the H2020 [SPRING](research#spring) project._
+
+_I speak Spanish and English. I did A1 level course for German (but can't remember much). I have learned and pick up in time a bit of French (but can't speak or understand much really) and Italian (know only the bad words :wink:). And I've been taught to say "arigato gozaimashita" in Japanese._
 
 _I liked sports (playing and watching), at school I was part of the football and baseball teams, I have also played, for hobby, basketball, softball, volleyball, tennis and padel. As a kid I was a yellow belt in karate (or maybe taekwondo, can't remember), I have also practice swimming, running, yoga and climbing. I would like to try rowing, surfing and tai chi. I love chess (but I don't count it as a sport)._
 

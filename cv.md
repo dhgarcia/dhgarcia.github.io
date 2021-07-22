@@ -6,7 +6,14 @@ layout: default
 
 You can download a [pdf of my CV]({{ "assets/resources/cv_DHG.pdf" | absolute_url }})
 
-**Post-Doctoral Research Associate.** Cognitive Robotics Lab, Department of Computer Science, The University of Manchester. Manchester, UK. January 2019 - Present
+
+**Post-Doctoral Research Associate.** Interaction Lab, School of Mathematical and Computer Sciences, Heriot-Watt University. Edinburgh, UK. April 2020 - Present
+
+- Post-Doctoral Research Associate.
+    - Research on Human-Robot Interaction in social robots for elderly care in the scope of the H2020 SPRING project.
+
+
+**Post-Doctoral Research Associate.** Cognitive Robotics Lab, Department of Computer Science, The University of Manchester. Manchester, UK. January 2019 - March 2020
 
 - Post-Doctoral Research Associate.
     - Research on Human-Robot Interaction in social robots for elderly care in the scope of the H2020 MoveCare projects.
@@ -18,9 +25,9 @@ You can download a [pdf of my CV]({{ "assets/resources/cv_DHG.pdf" | absolute_ur
     - Research on Human-Robot Interaction in social robots for education and therapy; developing Robot-Enhanced Therapy (RET) and child-friendly tutor robots for second language learning in the scope of the DREAM and L2TOR projects.
     - Study the potential of Deep Learning for social robotics. Can Deep Learning be used to have access to the social world, allowing the robot to make better decisions.
 
-**Associate Lecturer/Demonstrator** School of Computing, Electronics and Mathematics. University of Plymouth. Plymouth, UK. September 2017 - Present
+**Lecturer/Demonstrator** School of Computing, Electronics and Mathematics. University of Plymouth. Plymouth, UK. September 2017 - September 2018
 
-- Demonstrator, Marker, and Associate Lecturer for different modules.
+- Demonstrator, Marker, and Lecturer for different modules.
     - ROCO224 Introduction to Robotics (17/SP/SB/M)
     - PRCO304 Computing Project (17/SP/SB/M)
     - MECH533 Robotics and Control (17/AU/SB/M)
@@ -34,7 +41,7 @@ You can download a [pdf of my CV]({{ "assets/resources/cv_DHG.pdf" | absolute_ur
     - Integrating spiking networks and an embodied cognitive robot into a neuromorphic system, using asynchronous event-based vision sensors and the SpiNNaker spiking neural processor.
 
 
-**Post-Doctoral Research Fellow.** Centre for Robotics and Neural Systems, University of Plymouth. Plymouth, UK. April 2016 - March 2017  
+**Post-Doctoral Research Fellow.** Centre for Robotics and Neural Systems, University of Plymouth. Plymouth, UK. April 2016 - March 2017
 
 - Post-Doctoral Research Fellow in Cognitive and Neuro-Robotics (BABEL
 Project).
