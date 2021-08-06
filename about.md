@@ -53,9 +53,9 @@ _From 2019 I was a **Postdoctoral Research Associate** at the [COGNITI
 
 _Since April 2020 I work as a **Postdoctoral Research Associate** at the Interaction Lab, School of Mathematical and Computer Sciences, Heriot-Watt University in research on Human-Robot Interaction in social robots for elderly care in the scope of the H2020 [SPRING](research#spring) project. I'm focused on developing socially aware robots with the capacity for cognitive interactions, with a particular emphasis into bringing socially assistive robots into gerontological healthcare._
 
-![]({{ "assets/images/ari_welcome.jpg" | absolute_url }})
-![]({{ "assets/images/thiago_army.jpeg" | absolute_url }})
-![]({{ "assets/images/icub_hwu.jpeg" | absolute_url }})
+![]({{ "assets/images/ari_welcome.png" | absolute_url }})
+![]({{ "assets/images/thiago_army.png" | absolute_url }})
+![]({{ "assets/images/icub_hwu.png" | absolute_url }})
 
 _I speak Spanish and English. I did A1 level course for German (but can't remember much). I have learned and pick up in time a bit of French (but can't speak or understand much really) and Italian (know only the bad words :wink:). And I've been taught to say "arigato gozaimashita" in Japanese._
 
