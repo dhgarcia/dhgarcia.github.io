@@ -7,6 +7,8 @@ layout: default
 
 ## Publications in Journals
 
+<span>Marta Romeo; <span>**Daniel Hernández García**</span>; Ting Han; Angelo Cangelosi; Kristiina Jokinen. <span>**Predicting Apparent Personality From Body Language: Benchmarking Deep Learning Architectures for Adaptive Social Human-Robot Interaction.**</span> <span>*Advanced Robotics.*</span> 2021. [Accepted]</span>
+
 <span> Yaniv Hanoch; Francesco Arvizzigno; <span>**Daniel Hernández García**</span>; Sue Denham; Tony Belpaeme; Michaela Gummerum. <span>**The Robot Made Me Do It: Human–Robot Interaction and Risk-Taking Behavior.**</span> <span>*Cyberpsychology, Behavior, and Social Networking*</span>. November 2020. </span>
 
 <span> Erik Billing; Tony Belpaeme; Haibin Cai; Hoang-Long Cao; Anamaria Ciocan; Cristina Costescu; Daniel David; Robert Homewood; <span>**Daniel Hernández García**</span>; Pablo Gómez Esteban; Honghai Liu; Vipul Nair; Silviu Matu; Alexandre Mazel; Mihaela Selescu; Emmanuel Senft; Serge Thill; Bram Vanderborght; David Vernon; Tom Ziemke. <span>**The DREAM Dataset: Supporting a data-driven study of autism spectrum disorder and robot enhanced therapy.**</span> <span>*PLOS ONE 15(8).*</span> August 2020. </span>

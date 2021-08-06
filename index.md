@@ -9,9 +9,9 @@ layout: default
 
 I am **Dr. Daniel Hernández García**, I am a researcher in Robotics, Cognitive Sciences, Human-Robot Interactions, Robots for Therapy and Care and Social Robots.
 
-Since 2021 I'm a **Postdoctoral Research Associate** at the Interaction Lab, School of Mathematical and Computer Sciences, Heriot-Watt University.
+Since 2020 I'm a **Postdoctoral Research Associate** at the Interaction Lab, School of Mathematical and Computer Sciences, Heriot-Watt University.
 
-Previously I've been a **Postdoctoral Research Associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom) and a **Postdoctoral Fellow** at the Centre for Robotics and Neural Systems in Plymouth University (United Kingdom). I received my M.S degree in Robotics and Automation and my Ph.D. degree in Electrical Engineering, Electronics and Automation from Universidad Carlos III de Madrid, in 2010 and 2014, respectively.
+Previously I've been a **Postdoctoral Research Associate** at the [COGNITIVE ROBOTICS LAB](https://corolab.github.io/) in the Department of Computer Science, University of Manchester (United Kingdom) and a **Postdoct** at the Centre for Robotics and Neural Systems in Plymouth University (United Kingdom). I received my MSc. degree in Robotics and Automation and my Ph.D. degree in Electrical Engineering, Electronics and Automation from Universidad Carlos III de Madrid, in 2010 and 2014, respectively.
 
 Follow the link to know more [about me](about).
 
