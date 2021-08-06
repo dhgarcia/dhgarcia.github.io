@@ -56,6 +56,7 @@ _Since April 2020 I work as a **Postdoctoral Research Associate** at the Int
 ![]({{ "assets/images/ari_welcome.png" | absolute_url }})
 ![]({{ "assets/images/thiago_army.png" | absolute_url }})
 ![]({{ "assets/images/icub_hwu.png" | absolute_url }})
+![]({{ "assets/images/robotarium.png" | absolute_url }})
 
 _I speak Spanish and English. I did A1 level course for German (but can't remember much). I have learned and pick up in time a bit of French (but can't speak or understand much really) and Italian (know only the bad words :wink:). And I've been taught to say "arigato gozaimashita" in Japanese._
 
