@@ -84,6 +84,12 @@ Walking.**</span> <span>*Advanced Robotics.*</span> February 2015.
 
 ## International Conference and Workshop Organization/Chair
 
+Co-Organizer. **Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium**, (AI-HRI 2022), AAAI 2022 FALL SYMPOSIUM SERIES. Virginia, USA. November 17-19, 2022.
+
+Co-Organizer. **IROS 2022 Special Session on Computational Advances in Human-Robot Interaction**, 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022). Kyoto, Japan. October 23–27, 2022
+
+Web-chair. 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2022), Edinburgh, UK. September 07-09, 2022.
+
 Co-Organizer. **Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium**, (AI-HRI 2021), AAAI 2021 FALL SYMPOSIUM SERIES. Online, November 4-6, 2021.
 
 Workshop Co-Organizer. **Social Robots in Therapy and Care**, 14th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2019). Daegu, Korea. March 11.
