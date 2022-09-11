@@ -84,18 +84,18 @@ Walking.**</span> <span>*Advanced Robotics.*</span> February 2015.
 
 ## International Conference and Workshop Organization/Chair
 
-Co-Organizer. **Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium**, (AI-HRI 2022), AAAI 2022 FALL SYMPOSIUM SERIES. Virginia, USA. November 17-19, 2022.
+Co-Organizer. **Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium (AI-HRI 2022)**, AAAI 2022 FALL SYMPOSIUM SERIES. Virginia, USA. November 17-19, 2022.
 
 Co-Organizer. **IROS 2022 Special Session on Computational Advances in Human-Robot Interaction**, 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022). Kyoto, Japan. October 23–27, 2022
 
-Web-chair. 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2022), Edinburgh, UK. September 07-09, 2022.
+Web-chair. **23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2022)**, Edinburgh, UK. September 07-09, 2022.
 
-Co-Organizer. **Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium**, (AI-HRI 2021), AAAI 2021 FALL SYMPOSIUM SERIES. Online, November 4-6, 2021.
+Co-Organizer. **Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium (AI-HRI 2021)**, AAAI 2021 FALL SYMPOSIUM SERIES. Online, November 4-6, 2021.
 
-Workshop Co-Organizer. **Social Robots in Therapy and Care**, 14th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2019). Daegu, Korea. March 11.
+Workshop Co-Organizer. **Social Robots in Therapy and Care**, 14th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2019). Daegu, Korea. March 11, 2019.
 [(link)](https://dl.acm.org/doi/10.5555/3378680.3378845)
 
-Workshop Co-Organizer. **Social Robots in Therapy: Focusing on Autonomy and Ethical Challenges**, 13th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2018). Chicago, IL, USA. March 5. [(pdf)](http://delivery.acm.org/10.1145/3180000/3173562/p391-g.-esteban.pdf?ip=141.163.105.134&id=3173562&acc=OPEN&key=BF07A2EE685417C5%2EF0CFB63AC02EEA16%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1522690213_7b75f2b75f61d0f6e1b0cca99f1b2851).
+Workshop Co-Organizer. **Social Robots in Therapy: Focusing on Autonomy and Ethical Challenges**, 13th ACM / IEEE International Conference on Human-Robot Interaction (HRI 2018). Chicago, IL, USA. March 5, 2018. [(pdf)](http://delivery.acm.org/10.1145/3180000/3173562/p391-g.-esteban.pdf?ip=141.163.105.134&id=3173562&acc=OPEN&key=BF07A2EE685417C5%2EF0CFB63AC02EEA16%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1522690213_7b75f2b75f61d0f6e1b0cca99f1b2851).
 
 
 
