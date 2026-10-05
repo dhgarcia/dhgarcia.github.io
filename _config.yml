@@ -18,3 +18,4 @@ theme: jekyll-theme-dinky
 plugins:
   - jemoji
   - jekyll-email-protect
+  - jekyll-remote-theme

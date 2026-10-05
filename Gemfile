@@ -8,3 +8,4 @@ gem 'kramdown-parser-gfm'
 
 gem 'jemoji'
 gem 'jekyll-email-protect'
+gem "jekyll-remote-theme"
